@@ -5,7 +5,7 @@
 | Course and Year | COM304 Foundation Computing 2024 | 
 | Student Name | Erin Brookmier |
 | Student Number | Q102572649 |
-| Github Account | vibekei |
+| Github Account | brooe |
 
 ## Introduction
 
