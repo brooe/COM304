@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
+| Student Name | Erin Brookmier |
 | Student Number | |
-| Github Account | |
+| Github Account | brooe |
 
 ## Introduction
 
