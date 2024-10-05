@@ -20,11 +20,12 @@ use  screen shots and / or code samples as appropriate.
 - History of Computing :
 
   - Digital computers come from a long legacy of mechanical and analogue computing devices (ex. babbage machine, gaudi cathedral model)
+        <sub>https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum, https://www.livescience.com/20718-computer-history.html</sub>
   - The Turing Machine, invented in 1936, was foundational for the modern computer
     - a "turing complete" machine is that can simulate any other "turing complete" machine - this allows for emulation and virtualization.
   - The Manchester Atlas was built in 1962, and was one of the first supercomputers.
     - it introduced various new design concepts now ubiquitous in computing, such as piplining, virtual storage, job scheduling, and multiprogramming. 
-  - Moore's Law: the number of transistors on microchips doubles every year
+  - Moore's Law: the number of transistors on microchips doubles every year <sub>https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html</sub>
       - has held true since the 1970s, but may not for much longer due to the limitations of physics.
    
 - GitHub Clone & Merge :
