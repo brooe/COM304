@@ -41,9 +41,11 @@ use  screen shots and / or code samples as appropriate.
     
   - Boolean Logic :
       <sub>https://computer.howstuffworks.com/boolean.htm, https://www.bbc.co.uk/bitesize/guides/zqp9kqt/revision/1, </sub>
-     - Boolean logic is a form of algebra where all possible expressions can be evaluated as either True or False.
-       - We evaluate these conditions using Boolean conditions.
-       - AND, NOT, OR, XOR
+     - Boolean logic is a form of algebra where all possible expressions can be evaluated as either True or False. In computers, this is translated to the output state of an electronic circuit, which is either 0 (False) or 1 (True) (and as such can also be represented in binary). 
+       - We evaluate these using Boolean conditions.
+       - AND: where BOTH inputs are True, output True, else False.
+       - NOT: INVERTS the input. Where input is True, output False. Where input is False, output True.
+       - OR: where EITHER input is True, output True. if BOTH inputs are False, output False.
     - Logic gates are a series of transistors connected together to give one or more outputs, each output being based on the input or combination of inputs supplied to it.
     <sub>https://www.ilearnengineering.com/electronical-and-electronic/understanding-logic-gates-and-truth-tables</sub>
     - 
