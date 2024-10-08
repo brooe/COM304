@@ -32,6 +32,22 @@ use  screen shots and / or code samples as appropriate.
 
     - Installed GIT on personal laptop, generated SSH keys
     - Cloned my forked repository, and merged it with the upstream
+ 
+- Computer Architecture :
+
+  - Binary Arithmetic
+      - Binary is a base-2 system for representing numbers. It uses 2 symbols to represent
+      -
+    
+  - Boolean Logic :
+      <sub>https://computer.howstuffworks.com/boolean.htm, https://www.bbc.co.uk/bitesize/guides/zqp9kqt/revision/1, </sub>
+     - Boolean logic is a form of algebra where all possible expressions can be evaluated as either True or False.
+       - We evaluate these conditions using Boolean conditions.
+       - AND, NOT, OR, XOR
+    - Logic gates are a series of transistors connected together to give one or more outputs, each output being based on the input or combination of inputs supplied to it.
+    <sub>https://www.ilearnengineering.com/electronical-and-electronic/understanding-logic-gates-and-truth-tables</sub>
+    - 
+  - research on CPU architecture goes here
 
 ## session 3
 
